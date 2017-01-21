@@ -7,6 +7,7 @@ public class GitEclipse {
 		System.out.println("Welcome to GIT");
 		System.out.println("Just created a local repo");
 		System.out.println("This is for third commit");
+		System.out.println("This is edid1 from the server);
 	}
 
 }
